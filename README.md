@@ -1,1 +1,13 @@
 # SwiftCart
+├── api-gateway  
+├── config-server  
+├── service-discovery  
+├── auth-service  
+├── user-service  
+├── product-service  
+├── order-service  
+├── inventory-service  
+├── payment-service  
+├── notification-service  
+├── review-service  
+└── analytics-service
